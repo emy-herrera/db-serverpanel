@@ -1,0 +1,9 @@
+html,
+body,
+#root {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	overflow-x: hidden; /* quita scroll horizontal */
+	overflow-y: overlay; /* en navegadores modernos */
+}
